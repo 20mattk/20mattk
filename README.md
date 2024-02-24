@@ -1,1 +1,1 @@
-Hello and welcome! I've got interests in data analytics, machine learning, and data science!
+Hello and welcome! I've got interests in data analytics, machine learning, and data science! I graduated with a computer science degree in May 2022, and have been working as a data analyst since August 2023.

@@ -1,2 +1,1 @@
-Hi, my name is Matt K (20mattk)
-- I’m interested in machine learning, AI, and web development.
+Hello and welcome! I've got interests in data analytics, machine learning, and data science!
